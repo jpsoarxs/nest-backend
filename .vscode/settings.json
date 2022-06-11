@@ -1,0 +1,16 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+    "editor.fontSize": 14,
+    "editor.lineHeight": 24,
+    "editor.fontLigatures": true,
+
+    "editor.rulers": [
+        80,
+        120
+    ],
+
+    "editor.renderLineHighlight": "gutter",
+    "terminal.integrated.fontSize": 14
+}
